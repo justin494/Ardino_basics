@@ -3,7 +3,7 @@ void setup()
 {
   analogReference(DEFAULT);//isn't necessary
   
-  Serial.begin(9600);
+  Serial.begin(600);
 }
 void loop()
 {
